@@ -1,10 +1,8 @@
-## HEJ
+## Blog
 
 ---
 
-### HEJ HEJ
-
-[Summer in Stockholm](/summer-in-stockholm)
+[Summer in Stockholm](/posts/summer-in-stockholm)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
