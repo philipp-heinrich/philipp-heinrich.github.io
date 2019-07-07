@@ -4,7 +4,7 @@
 
 ### HEJ HEJ
 
-[Project 1 Title](/sample_page)
+[Summer in Stockholm](/summer-in-stockholm)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

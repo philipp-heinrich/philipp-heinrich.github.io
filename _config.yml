@@ -3,9 +3,13 @@ title: Philipp Heinrich
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hej Hej.
   <br><br>
-  Analytics & Data Guy. 
+  Coffee Enthusiast
+  Analytics & Data Guy. <br>
   Riding bikes & running for food. 
   <br><br>
+  
+  <a href="https://vsco.co/philippheinrich/images/1">View My Photos</a> 
+  
   <a href="https://www.linkedin.com/in/philipp-heinrich">View My Linkedin</a> 
   
 theme: jekyll-theme-minimal
