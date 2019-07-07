@@ -2,5 +2,5 @@
 
 ---
 
-[Summer in Stockholm](/posts/summer-in-stockholm)
+[Summer in Stockholm](/posts/summer-in-stockholm){:target="_blank"}
 
